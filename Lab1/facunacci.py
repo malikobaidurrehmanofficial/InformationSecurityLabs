@@ -12,4 +12,4 @@ for i in range(3,num+1):
     tn=t1+t2
     t1=t2
     t2=tn
-    print(tn,end="\t")
+    print(tn,end="\t")  
