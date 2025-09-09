@@ -1,0 +1,8 @@
+a=int(input("Enter a number to get its factorial : "))
+
+fact=1
+
+for i in range(1,a+1):
+    fact=fact*i;
+
+print("factorial is ",fact)
