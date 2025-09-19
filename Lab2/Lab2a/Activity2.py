@@ -2,4 +2,4 @@ def palindrome(word):
     return word == word[::-1]
 
 
-print(palindrome("madam"))
+print(palindrome("Madam"))
